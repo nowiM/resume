@@ -1,0 +1,89 @@
+[
+    {
+        "guildName": "로나정부1"
+    },
+    {
+        "image": "/img/ronaWorldSeason2/steve_icon.jpg",
+        "name": "로나땅",
+        "rpg": "법사",
+        "primaryJob": "요리사",
+        "secondaryJob": "농부"
+    },
+    {
+        "image": "/img/ronaWorldSeason2/steve_icon.jpg",
+        "name": "수하",
+        "rpg": "도적",
+        "primaryJob": "광부",
+        "secondaryJob": "사냥꾼"
+    },
+    {
+        "image": "/img/ronaWorldSeason2/steve_icon.jpg",
+        "name": "헬렌",
+        "rpg": "도적",
+        "primaryJob": "사냥꾼",
+        "secondaryJob": "광부"
+    },
+    {
+        "image": "/img/ronaWorldSeason2/steve_icon.jpg",
+        "name": "제티",
+        "rpg": "전사",
+        "primaryJob": "광부",
+        "secondaryJob": "사냥꾼"
+    },
+    {
+        "image": "/img/ronaWorldSeason2/steve_icon.jpg",
+        "name": "바칸",
+        "rpg": "전사",
+        "primaryJob": "광부",
+        "secondaryJob": "농부"
+    },
+    {
+        "image": "/img/ronaWorldSeason2/steve_icon.jpg",
+        "name": "소냥이",
+        "rpg": "전사",
+        "primaryJob": "농부",
+        "secondaryJob": "광부"
+    },
+    {
+        "image": "/img/ronaWorldSeason2/steve_icon.jpg",
+        "name": "한둬얼",
+        "rpg": "전사",
+        "primaryJob": "광부",
+        "secondaryJob": "사냥꾼"
+    },
+    {
+        "image": "/img/ronaWorldSeason2/steve_icon.jpg",
+        "name": "김흐흐",
+        "rpg": "전사",
+        "primaryJob": "농부",
+        "secondaryJob": "광부"
+    },
+    {
+        "image": "/img/ronaWorldSeason2/steve_icon.jpg",
+        "name": "김멘탈",
+        "rpg": "궁수",
+        "primaryJob": "광부",
+        "secondaryJob": "대장장이"
+    },
+    {
+        "image": "/img/ronaWorldSeason2/steve_icon.jpg",
+        "name": "픽서",
+        "rpg": "궁수",
+        "primaryJob": "사냥꾼",
+        "secondaryJob": "광부"
+    },
+    {
+        "image": "/img/ronaWorldSeason2/steve_icon.jpg",
+        "name": "킴슈",
+        "rpg": "궁수",
+        "primaryJob": "대장장이",
+        "secondaryJob": "농부"
+    },
+    {
+        "image": "/img/ronaWorldSeason2/steve_icon.jpg",
+        "name": "세랑",
+        "rpg": "궁수",
+        "primaryJob": "연금술사",
+        "secondaryJob": "사냥꾼"
+    }
+]

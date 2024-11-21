@@ -1,0 +1,242 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+/*
+@font-face {
+    font-family: 'MinecraftTen';
+    src: url('/font/MinecraftTen-VGORe.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+body {
+    background-color: #1E2D3E;
+    font-family: 'MinecraftTen', sans-serif;
+}
+*/
+
+
+/* 폰트 설정 */
+@font-face {
+    font-family: 'Galmuri';
+    src: url('/fonts/Galmuri11-Bold.ttf') format('truetype');
+    font-weight: bold;
+    font-style: normal;
+}
+
+body {
+    background-color: #1E2D3E;
+    font-family: 'Galmuri', sans-serif;
+}
+
+
+.top-nav {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    color: white;
+    background-color: #1E2D3E;
+}
+
+.top-nav .container {
+    max-width: 1200px;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
+
+.top-nav .container .games {
+    display: flex;
+    padding: 20px 0 10px;
+    list-style: none;
+}
+
+.top-nav .container .games .item {
+    margin-right: 20px;
+}
+
+.dividingLine {
+    margin: 0 auto;
+    width: 100%;
+    max-width: 1200px;
+    border-top: 1px solid #EFF2F5;
+}
+
+.bottom-nav {
+    min-width: 100vw;
+    display: flex;
+    justify-content: center;
+    color: white;
+    background-color: #1E2D3E;
+}
+
+.bottom-nav .container {
+    max-width: 1200px;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
+
+.bottom-nav .container .seasons {
+    display: flex;
+    padding: 10px 0px 10px;
+    list-style: none;
+}
+
+.bottom-nav .container .seasons .season {
+    margin-right: 20px;
+}
+
+a {
+    color: white;
+    text-decoration-line: none;
+    margin-right: 10px;
+}
+
+.background {
+    width: 100%;
+    height: 400px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 20px;
+}
+
+.background .container {
+    max-width: 1200px;
+    width: 100%;
+    height: 400px;
+    border-radius: 10px;
+    background-image: url('/img/image.png');
+    background-repeat: no-repeat; /*이미지 반복하지 않음*/
+    background-size : 100% 100%; /* 클래스 background 크기만큼 배경에 꽉 채움*/
+}
+
+.tables {
+    width: 100%;
+    padding: 20px 0px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: #1E2D3E;
+    background-color: #1E2D3E;
+}
+
+.tables .container {
+    display: flex;
+    flex-direction: column;
+    max-width: 1200px;
+}
+
+.crew {
+    display: flex;
+    flex-wrap: wrap; /* Flexbox wrap을 사용하여 다음 줄로 넘어가도록 설정 */
+    gap: 20px; /* 테이블 간 간격 설정 */
+    justify-content: center; /* 테이블들이 중앙에 정렬되도록 설정 */
+}
+
+table {
+    text-align: center;
+    table-layout: fixed;
+    width: 100%;
+    max-width: 580px; /* 테이블 너비를 고정 */
+    border-collapse: collapse; /* 표의 테두리 및 셀간 테두리 간격을 없애고 */
+    border-radius: 10px; /* 원하는 둥글기 정도로 설정 */
+    overflow: hidden;
+}
+
+table:last-child {
+    margin-right: 0px;
+}
+
+th {
+    font-size: 25px;
+    padding: 5px 0px;
+    border: none;
+    background-color: #7ccac6;
+}
+
+td {
+    width: 10%; /* td의 너비를 전체 테이블 너비의 20%로 고정 */
+    padding: 5px 0px;
+    background-color: #dce2cc;
+    font-size: 19px;
+    font-weight: 700;
+}
+
+.guildImgAndName {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.guildImg {
+    width: 50px;
+    height: 50px;
+}
+
+.bjName {
+    display: inline-block;
+    font-size: 12px;
+    font-weight: 700;
+}
+
+.profilePhoto {
+    border-radius: 10px;
+    width: 40px;
+    height: 40px;
+}
+
+.jobIcon {
+    width: 50px;
+    height: 45px;
+}
+
+.weaponsAndLevel {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.weaponsAndLevel .weapon{
+    font-size: 12px;
+}
+
+.iconAndLevel>img {
+    width: 25px;
+    height: 25px;
+}
+
+.combatAndLevel {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.combatAndLevel .combat{
+    font-size: 12px;
+}
+
+.edit {
+    color: white;
+    text-decoration: none;
+}
+
+@media (max-width: 480px) {
+    .crew {
+        flex-direction: column;
+    }
+
+    table {
+        margin: 0px 0px 10px 0px;
+    }
+    
+    table:last-child {
+        margin-bottom: 0px;
+    }
+}

@@ -1,0 +1,40 @@
+[
+    {
+        "guildName": "로망물산"
+    },
+    {
+        "image": "/img/ronaWorldSeason2/steve_icon.jpg",
+        "name": "햄우리",
+        "rpg": "궁수",
+        "primaryJob": "요리사",
+        "secondaryJob": "농부"
+    },
+    {
+        "image": "/img/ronaWorldSeason2/steve_icon.jpg",
+        "name": "레후",
+        "rpg": "전사",
+        "primaryJob": "대장장이",
+        "secondaryJob": "사냥꾼"
+    },
+    {
+        "image": "/img/ronaWorldSeason2/steve_icon.jpg",
+        "name": "니즈",
+        "rpg": "전사",
+        "primaryJob": "광부",
+        "secondaryJob": "대장장이"
+    },
+    {
+        "image": "/img/ronaWorldSeason2/steve_icon.jpg",
+        "name": "2라니",
+        "rpg": "법사",
+        "primaryJob": "광부",
+        "secondaryJob": "사냥꾼"
+    },
+    {
+        "image": "/img/ronaWorldSeason2/steve_icon.jpg",
+        "name": "김무무",
+        "rpg": "법사",
+        "primaryJob": "광부",
+        "secondaryJob": "농부"
+    }
+]

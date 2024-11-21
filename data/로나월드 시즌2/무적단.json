@@ -1,0 +1,89 @@
+[
+    {
+        "guildName": "무적단"
+    },
+    {
+        "image": "/img/ronaWorldSeason2/steve_icon.jpg",
+        "name": "봉준",
+        "rpg": "버서커 블레이드",
+        "primaryJob": "대장장이",
+        "secondaryJob": "농부"
+    },
+    {
+        "image": "/img/ronaWorldSeason2/steve_icon.jpg",
+        "name": "빙밍",
+        "rpg": "블레이즈",
+        "primaryJob": "사냥꾼",
+        "secondaryJob": "농부"
+    },
+    {
+        "image": "/img/ronaWorldSeason2/steve_icon.jpg",
+        "name": "라로시",
+        "rpg": "프리스트",
+        "primaryJob": "농부",
+        "secondaryJob": "광부"
+    },
+    {
+        "image": "/img/ronaWorldSeason2/steve_icon.jpg",
+        "name": "조경훈",
+        "rpg": "프로스트 헌터",
+        "primaryJob": "광부",
+        "secondaryJob": "농부"
+    },
+    {
+        "image": "/img/ronaWorldSeason2/steve_icon.jpg",
+        "name": "트할",
+        "rpg": "쿠로츠키",
+        "primaryJob": "농부",
+        "secondaryJob": "광부"
+    },
+    {
+        "image": "/img/ronaWorldSeason2/steve_icon.jpg",
+        "name": "오리꿍",
+        "rpg": "전사",
+        "primaryJob": "연금술사",
+        "secondaryJob": "사냥꾼"
+    },
+    {
+        "image": "/img/ronaWorldSeason2/steve_icon.jpg",
+        "name": "듀단",
+        "rpg": "궁수",
+        "primaryJob": "사냥꾼",
+        "secondaryJob": "광부"
+    },
+    {
+        "image": "/img/ronaWorldSeason2/steve_icon.jpg",
+        "name": "츄잉",
+        "rpg": "궁수",
+        "primaryJob": "농부",
+        "secondaryJob": "광부"
+    },
+    {
+        "image": "/img/ronaWorldSeason2/steve_icon.jpg",
+        "name": "상어녀",
+        "rpg": "궁수",
+        "primaryJob": "농부",
+        "secondaryJob": "광부"
+    },
+    {
+        "image": "/img/ronaWorldSeason2/steve_icon.jpg",
+        "name": "필메",
+        "rpg": "법사",
+        "primaryJob": "사냥꾼",
+        "secondaryJob": "광부"
+    },
+    {
+        "image": "/img/ronaWorldSeason2/steve_icon.jpg",
+        "name": "꽃님",
+        "rpg": "법사",
+        "primaryJob": "광부",
+        "secondaryJob": "농부"
+    },
+    {
+        "image": "/img/ronaWorldSeason2/steve_icon.jpg",
+        "name": "앨리스얌",
+        "rpg": "법사",
+        "primaryJob": "요리사",
+        "secondaryJob": "농부"
+    }
+]

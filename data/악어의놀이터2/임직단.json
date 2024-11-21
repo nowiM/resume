@@ -1,0 +1,102 @@
+[
+    {
+        "guildImg": "/img/alligatorPlayground/limJikDan/limJikDan_gulidIcon.webp",
+        "guildName": "임직단"
+    },
+    {
+        "image": "/img/alligatorPlayground/limJikDan/limJikDanProfilePhoto/imani_icon.webp",
+        "name": "임아니",
+        "weaponLevel": 17,
+        "combatLevel": 143,
+        "primaryJob": "광부",
+        "secondaryJob": "어부"
+    },
+    {
+        "image": "/img/alligatorPlayground/limJikDan/limJikDanProfilePhoto/dohyeon_icon.webp",
+        "name": "도현",
+        "weaponLevel": 18,
+        "combatLevel": 143,
+        "primaryJob": "광부",
+        "secondaryJob": "어부"
+    },
+    {
+        "image": "/img/alligatorPlayground/limJikDan/limJikDanProfilePhoto/dudan_icon.webp",
+        "name": "듀단",
+        "weaponLevel": 17,
+        "combatLevel": 148,
+        "primaryJob": "어부",
+        "secondaryJob": "농부"
+    },
+    {
+        "image": "/img/alligatorPlayground/limJikDan/limJikDanProfilePhoto/esuka_icon.webp",
+        "name": "에스카",
+        "weaponLevel": 18,
+        "combatLevel": 148,
+        "primaryJob": "광부",
+        "secondaryJob": "어부"
+    },
+    {
+        "image": "/img/alligatorPlayground/limJikDan/limJikDanProfilePhoto/gangmansik_icon.png",
+        "name": "강만식",
+        "weaponLevel": 18,
+        "combatLevel": 151,
+        "primaryJob": "광부",
+        "secondaryJob": "어부"
+    },
+    {
+        "image": "/img/alligatorPlayground/limJikDan/limJikDanProfilePhoto/minecraft_head_icon.png",
+        "name": "조경훈",
+        "weaponLevel": 18,
+        "combatLevel": 144,
+        "primaryJob": "광부",
+        "secondaryJob": "어부"
+    },
+    {
+        "image": "/img/alligatorPlayground/limJikDan/limJikDanProfilePhoto/ryujaeryong_icon.webp",
+        "name": "류제횽",
+        "weaponLevel": 18,
+        "combatLevel": 136,
+        "primaryJob": "요리사",
+        "secondaryJob": "광부"
+    },
+    {
+        "image": "/img/alligatorPlayground/limJikDan/limJikDanProfilePhoto/angirl_icon.webp",
+        "name": "안겨",
+        "weaponLevel": 17,
+        "combatLevel": 146,
+        "primaryJob": "농부",
+        "secondaryJob": "요리사"
+    },
+    {
+        "image": "/img/alligatorPlayground/limJikDan/limJikDanProfilePhoto/kootinyu_icon.png",
+        "name": "꾸티뉴",
+        "weaponLevel": 17,
+        "combatLevel": 146,
+        "primaryJob": "광부",
+        "secondaryJob": "어부"
+    },
+    {
+        "image": "/img/alligatorPlayground/limJikDan/limJikDanProfilePhoto/doeunji_icon.webp",
+        "name": "도읍지",
+        "weaponLevel": 17,
+        "combatLevel": 143,
+        "primaryJob": "광부",
+        "secondaryJob": "어부"
+    },
+    {
+        "image": "/img/alligatorPlayground/limJikDan/limJikDanProfilePhoto/hisomi_icon.png",
+        "name": "히츠메",
+        "weaponLevel": 17,
+        "combatLevel": 138,
+        "primaryJob": "광부",
+        "secondaryJob": "어부"
+    },
+    {
+        "image": "/img/alligatorPlayground/limJikDan/limJikDanProfilePhoto/hyeondana_icon.png",
+        "name": "현단아",
+        "weaponLevel": 16,
+        "combatLevel": 137,
+        "primaryJob": "광부",
+        "secondaryJob": "어부"
+    }
+]

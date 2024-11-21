@@ -1,0 +1,75 @@
+[
+    {
+        "guildName": "사황"
+    },
+    {
+        "image": "/img/ronaWorldSeason2/steve_icon.jpg",
+        "name": "와치",
+        "rpg": "도적",
+        "primaryJob": "사냥꾼",
+        "secondaryJob": "농부"
+    },
+    {
+        "image": "/img/ronaWorldSeason2/steve_icon.jpg",
+        "name": "한아련",
+        "rpg": "전사",
+        "primaryJob": "농부",
+        "secondaryJob": "요리사"
+    },
+    {
+        "image": "/img/ronaWorldSeason2/steve_icon.jpg",
+        "name": "김세아",
+        "rpg": "궁수",
+        "primaryJob": "광부",
+        "secondaryJob": "농부"
+    },
+    {
+        "image": "/img/ronaWorldSeason2/steve_icon.jpg",
+        "name": "도읍지",
+        "rpg": "궁수",
+        "primaryJob": "연금술사",
+        "secondaryJob": "농부"
+    },
+    {
+        "image": "/img/ronaWorldSeason2/steve_icon.jpg",
+        "name": "쪼이",
+        "rpg": "궁수",
+        "primaryJob": "사냥꾼",
+        "secondaryJob": "광부"
+    },
+    {
+        "image": "/img/ronaWorldSeason2/steve_icon.jpg",
+        "name": "서한결",
+        "rpg": "궁수",
+        "primaryJob": "사냥꾼",
+        "secondaryJob": "광부"
+    },
+    {
+        "image": "/img/ronaWorldSeason2/steve_icon.jpg",
+        "name": "잠결",
+        "rpg": "법사",
+        "primaryJob": "연금술사",
+        "secondaryJob": "농부"
+    },
+    {
+        "image": "/img/ronaWorldSeason2/steve_icon.jpg",
+        "name": "지아XD",
+        "rpg": "법사",
+        "primaryJob": "광부",
+        "secondaryJob": "농부"
+    },
+    {
+        "image": "/img/ronaWorldSeason2/steve_icon.jpg",
+        "name": "마이티베어",
+        "rpg": "법사",
+        "primaryJob": "농부",
+        "secondaryJob": "광부"
+    },
+    {
+        "image": "/img/ronaWorldSeason2/steve_icon.jpg",
+        "name": "걸뽀",
+        "rpg": "전사",
+        "primaryJob": "대장장이",
+        "secondaryJob": "광부"
+    }
+]

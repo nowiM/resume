@@ -1,0 +1,40 @@
+[
+    {
+        "guildName": "광대"
+    },
+    {
+        "image": "/img/ronaWorldSeason2/steve_icon.jpg",
+        "name": "두둔반",
+        "rpg": "전사",
+        "primaryJob": "농부",
+        "secondaryJob": "요리사"
+    },
+    {
+        "image": "/img/ronaWorldSeason2/steve_icon.jpg",
+        "name": "도덕이",
+        "rpg": "도적",
+        "primaryJob": "요리사",
+        "secondaryJob": "농부"
+    },
+    {
+        "image": "/img/ronaWorldSeason2/steve_icon.jpg",
+        "name": "김케니",
+        "rpg": "법사",
+        "primaryJob": "농부",
+        "secondaryJob": "광부"
+    },
+    {
+        "image": "/img/ronaWorldSeason2/steve_icon.jpg",
+        "name": "규지니야",
+        "rpg": "궁수",
+        "primaryJob": "광부",
+        "secondaryJob": "농부"
+    },
+    {
+        "image": "/img/ronaWorldSeason2/steve_icon.jpg",
+        "name": "린링",
+        "rpg": "전사",
+        "primaryJob": "농부",
+        "secondaryJob": "광부"
+    }
+]

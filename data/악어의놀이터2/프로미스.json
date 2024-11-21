@@ -1,0 +1,54 @@
+[
+    {
+        "guildImg": "/img/alligatorPlayground/promise/promise_gulidIcon.webp",
+        "guildName": "프로미스"
+    },
+    {
+        "image": "/img/alligatorPlayground/promise/promiseProfilePhoto/noble_icon.webp",
+        "name": "너블",
+        "weaponLevel": 11,
+        "combatLevel": 75,
+        "primaryJob": "어부",
+        "secondaryJob": "광부"
+    },
+    {
+        "image": "/img/alligatorPlayground/promise/promiseProfilePhoto/lilpa_icon.webp",
+        "name": "릴파",
+        "weaponLevel": "0",
+        "combatLevel": 31,
+        "primaryJob": "광부",
+        "secondaryJob": "어부"
+    },
+    {
+        "image": "/img/alligatorPlayground/promise/promiseProfilePhoto/aine_icon.webp",
+        "name": "아이네",
+        "weaponLevel": "0",
+        "combatLevel": "0",
+        "primaryJob": "농부",
+        "secondaryJob": "어부"
+    },
+    {
+        "image": "/img/alligatorPlayground/promise/promiseProfilePhoto/gyunjahee_icon.png",
+        "name": "견자희",
+        "weaponLevel": "0",
+        "combatLevel": 40,
+        "primaryJob": "광부",
+        "secondaryJob": "어부"
+    },
+    {
+        "image": "/img/alligatorPlayground/promise/promiseProfilePhoto/kimbbung_icon.webp",
+        "name": "김뿡",
+        "weaponLevel": "0",
+        "combatLevel": 62,
+        "primaryJob": "어부",
+        "secondaryJob": "농부"
+    },
+    {
+        "image": "/img/alligatorPlayground/promise/promiseProfilePhoto/gambler_icon.webp",
+        "name": "감블러",
+        "weaponLevel": 7,
+        "combatLevel": 47,
+        "primaryJob": "-",
+        "secondaryJob": "-"
+    }
+]

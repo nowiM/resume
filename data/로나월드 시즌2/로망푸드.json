@@ -1,0 +1,61 @@
+[
+    {
+        "guildName": "로망푸드"
+    },
+    {
+        "image": "/img/ronaWorldSeason2/steve_icon.jpg",
+        "name": "겜마독",
+        "rpg": "-",
+        "primaryJob": "-",
+        "secondaryJob": "-"
+    },
+    {
+        "image": "/img/ronaWorldSeason2/steve_icon.jpg",
+        "name": "뽀끔",
+        "rpg": "전사",
+        "primaryJob": "광부",
+        "secondaryJob": "사냥꾼"
+    },
+    {
+        "image": "/img/ronaWorldSeason2/steve_icon.jpg",
+        "name": "미네뀨",
+        "rpg": "궁수",
+        "primaryJob": "농부",
+        "secondaryJob": "사냥꾼"
+    },
+    {
+        "image": "/img/ronaWorldSeason2/steve_icon.jpg",
+        "name": "꼰양",
+        "rpg": "궁수",
+        "primaryJob": "농부",
+        "secondaryJob": "광부"
+    },
+    {
+        "image": "/img/ronaWorldSeason2/steve_icon.jpg",
+        "name": "이오",
+        "rpg": "법사",
+        "primaryJob": "농부",
+        "secondaryJob": "사냥꾼"
+    },
+    {
+        "image": "/img/ronaWorldSeason2/steve_icon.jpg",
+        "name": "송하",
+        "rpg": "법사",
+        "primaryJob": "농부",
+        "secondaryJob": "광부"
+    },
+    {
+        "image": "/img/ronaWorldSeason2/steve_icon.jpg",
+        "name": "소연화",
+        "rpg": "법사",
+        "primaryJob": "요리사",
+        "secondaryJob": "농부"
+    },
+    {
+        "image": "/img/ronaWorldSeason2/steve_icon.jpg",
+        "name": "핑코",
+        "rpg": "법사",
+        "primaryJob": "농부",
+        "secondaryJob": "사냥꾼"
+    }
+]

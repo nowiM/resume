@@ -1,0 +1,89 @@
+[
+    {
+        "guildName": "도깨비"
+    },
+    {
+        "image": "/img/ronaWorldSeason2/steve_icon.jpg",
+        "name": "깨박이",
+        "rpg": "궁수",
+        "primaryJob": "광부",
+        "secondaryJob": "농부"
+    },
+    {
+        "image": "/img/ronaWorldSeason2/steve_icon.jpg",
+        "name": "블랙워크",
+        "rpg": "버서커블레이드",
+        "primaryJob": "사냥꾼",
+        "secondaryJob": "광부"
+    },
+    {
+        "image": "/img/ronaWorldSeason2/steve_icon.jpg",
+        "name": "빠뽀빠뽀",
+        "rpg": "프로시터 헌터",
+        "primaryJob": "사냥꾼",
+        "secondaryJob": "광부"
+    },
+    {
+        "image": "/img/ronaWorldSeason2/steve_icon.jpg",
+        "name": "영짱",
+        "rpg": "프리스트",
+        "primaryJob": "농부",
+        "secondaryJob": "광부"
+    },
+    {
+        "image": "/img/ronaWorldSeason2/steve_icon.jpg",
+        "name": "단청",
+        "rpg": "도적",
+        "primaryJob": "사냥꾼",
+        "secondaryJob": "광부"
+    },
+    {
+        "image": "/img/ronaWorldSeason2/steve_icon.jpg",
+        "name": "달체솜",
+        "rpg": "전사",
+        "primaryJob": "농부",
+        "secondaryJob": "광부"
+    },
+    {
+        "image": "/img/ronaWorldSeason2/steve_icon.jpg",
+        "name": "쥐돌이",
+        "rpg": "궁수",
+        "primaryJob": "연금술사",
+        "secondaryJob": "광부"
+    },
+    {
+        "image": "/img/ronaWorldSeason2/steve_icon.jpg",
+        "name": "복새달",
+        "rpg": "궁수",
+        "primaryJob": "대장장이",
+        "secondaryJob": "광부"
+    },
+    {
+        "image": "/img/ronaWorldSeason2/steve_icon.jpg",
+        "name": "캬앙",
+        "rpg": "궁수",
+        "primaryJob": "광부",
+        "secondaryJob": "대장장이"
+    },
+    {
+        "image": "/img/ronaWorldSeason2/steve_icon.jpg",
+        "name": "하이요",
+        "rpg": "법사",
+        "primaryJob": "광부",
+        "secondaryJob": "농부"
+    },
+    {
+        "image": "/img/ronaWorldSeason2/steve_icon.jpg",
+        "name": "최은뽀",
+        "rpg": "법사",
+        "primaryJob": "요리사",
+        "secondaryJob": "농부"
+    },
+    {
+        "image": "/img/ronaWorldSeason2/steve_icon.jpg",
+        "name": "별시아",
+        "rpg": "법사",
+        "primaryJob": "농부",
+        "secondaryJob": "요리사"
+    }
+]

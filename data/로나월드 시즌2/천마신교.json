@@ -1,0 +1,89 @@
+[
+    {
+        "guildName": "천마신교"
+    },
+    {
+        "image": "/img/ronaWorldSeason2/steve_icon.jpg",
+        "name": "강만식",
+        "rpg": "도적",
+        "primaryJob": "사냥꾼",
+        "secondaryJob": "광부"
+    },
+    {
+        "image": "/img/ronaWorldSeason2/steve_icon.jpg",
+        "name": "임하밍",
+        "rpg": "블레이즈",
+        "primaryJob": "농부",
+        "secondaryJob": "광부"
+    },
+    {
+        "image": "/img/ronaWorldSeason2/steve_icon.jpg",
+        "name": "우레",
+        "rpg": "도적",
+        "primaryJob": "사냥꾼",
+        "secondaryJob": "광부"
+    },
+    {
+        "image": "/img/ronaWorldSeason2/steve_icon.jpg",
+        "name": "박사장",
+        "rpg": "전사",
+        "primaryJob": "사냥꾼",
+        "secondaryJob": "광부"
+    },
+    {
+        "image": "/img/ronaWorldSeason2/steve_icon.jpg",
+        "name": "커비",
+        "rpg": "전사",
+        "primaryJob": "광부",
+        "secondaryJob": "연금술사"
+    },
+    {
+        "image": "/img/ronaWorldSeason2/steve_icon.jpg",
+        "name": "섹시피그",
+        "rpg": "궁수",
+        "primaryJob": "사냥꾼",
+        "secondaryJob": "광부"
+    },
+    {
+        "image": "/img/ronaWorldSeason2/steve_icon.jpg",
+        "name": "수힛",
+        "rpg": "궁수",
+        "primaryJob": "광부",
+        "secondaryJob": "농부"
+    },
+    {
+        "image": "/img/ronaWorldSeason2/steve_icon.jpg",
+        "name": "온자두",
+        "rpg": "궁수",
+        "primaryJob": "대장장이",
+        "secondaryJob": "광부"
+    },
+    {
+        "image": "/img/ronaWorldSeason2/steve_icon.jpg",
+        "name": "임민트",
+        "rpg": "법사",
+        "primaryJob": "광부",
+        "secondaryJob": "농부"
+    },
+    {
+        "image": "/img/ronaWorldSeason2/steve_icon.jpg",
+        "name": "사이다",
+        "rpg": "법사",
+        "primaryJob": "연금술사",
+        "secondaryJob": "광부"
+    },
+    {
+        "image": "/img/ronaWorldSeason2/steve_icon.jpg",
+        "name": "차밍챠",
+        "rpg": "법사",
+        "primaryJob": "농부",
+        "secondaryJob": "광부"
+    },
+    {
+        "image": "/img/ronaWorldSeason2/steve_icon.jpg",
+        "name": "엔쥬",
+        "rpg": "법사",
+        "primaryJob": "농부",
+        "secondaryJob": "광부"
+    }
+]

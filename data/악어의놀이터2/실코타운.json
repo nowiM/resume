@@ -1,0 +1,102 @@
+[
+    {
+        "guildImg": "/img/alligatorPlayground/silcoTown/silcoTown_gulidIcon.webp",
+        "guildName": "실코타운"
+    },
+    {
+        "image": "/img/alligatorPlayground/silcoTown/silcoTownProfilePhoto/kimseongtaeda_icon.webp",
+        "name": "킴성태",
+        "weaponLevel": 19,
+        "combatLevel": 143,
+        "primaryJob": "제작",
+        "secondaryJob": "광부"
+    },
+    {
+        "image": "/img/alligatorPlayground/silcoTown/silcoTownProfilePhoto/oah_icon.webp",
+        "name": "오아",
+        "weaponLevel": 18,
+        "combatLevel": 155,
+        "primaryJob": "광부",
+        "secondaryJob": "어부"
+    },
+    {
+        "image": "/img/alligatorPlayground/silcoTown/silcoTownProfilePhoto/soooopi_icon.webp",
+        "name": "수피",
+        "weaponLevel": 18,
+        "combatLevel": 148,
+        "primaryJob": "광부",
+        "secondaryJob": "어부"
+    },
+    {
+        "image": "/img/alligatorPlayground/silcoTown/silcoTownProfilePhoto/zodiac_icon.webp",
+        "name": "조디악",
+        "weaponLevel": 17,
+        "combatLevel": 145,
+        "primaryJob": "광부",
+        "secondaryJob": "어부"
+    },
+    {
+        "image": "/img/alligatorPlayground/silcoTown/silcoTownProfilePhoto/saapae_icon.webp",
+        "name": "싸패",
+        "weaponLevel": 16,
+        "combatLevel": 135,
+        "primaryJob": "광부",
+        "secondaryJob": "어부"
+    },
+    {
+        "image": "/img/alligatorPlayground/silcoTown/silcoTownProfilePhoto/applemong_icon.webp",
+        "name": "사과몽",
+        "weaponLevel": 16,
+        "combatLevel": 130,
+        "primaryJob": "농부",
+        "secondaryJob": "어부"
+    },
+    {
+        "image": "/img/alligatorPlayground/silcoTown/silcoTownProfilePhoto/kimrain_icon.webp",
+        "name": "김레인",
+        "weaponLevel": 17,
+        "combatLevel": 122,
+        "primaryJob": "광부",
+        "secondaryJob": "어부"
+    },
+    {
+        "image": "/img/alligatorPlayground/silcoTown/silcoTownProfilePhoto/lita.webp",
+        "name": "리타",
+        "weaponLevel": 17,
+        "combatLevel": 128,
+        "primaryJob": "농부",
+        "secondaryJob": "어부"
+    },
+    {
+        "image": "/img/alligatorPlayground/silcoTown/silcoTownProfilePhoto/suning_icon.webp",
+        "name": "수닝",
+        "weaponLevel": 18,
+        "combatLevel": 117,
+        "primaryJob": "요리사",
+        "secondaryJob": "어부"
+    },
+    {
+        "image": "/img/alligatorPlayground/silcoTown/silcoTownProfilePhoto/esaem_icon.webp",
+        "name": "윤이샘",
+        "weaponLevel": 17,
+        "combatLevel": 127,
+        "primaryJob": "어부",
+        "secondaryJob": "광부"
+    },
+    {
+        "image": "/img/alligatorPlayground/silcoTown/silcoTownProfilePhoto/youngjjang_icon.webp",
+        "name": "영짱",
+        "weaponLevel": 17,
+        "combatLevel": 133,
+        "primaryJob": "어부",
+        "secondaryJob": "농부"
+    },
+    {
+        "image": "/img/alligatorPlayground/silcoTown/silcoTownProfilePhoto/mangoorang_icon.webp",
+        "name": "망구랑",
+        "weaponLevel": 16,
+        "combatLevel": 141,
+        "primaryJob": "농부",
+        "secondaryJob": "어부"
+    }
+]

@@ -1,0 +1,61 @@
+[
+    {
+        "guildName": "하나비"
+    },
+    {
+        "image": "/img/ronaWorldSeason2/steve_icon.jpg",
+        "name": "시네",
+        "rpg": "도적",
+        "primaryJob": "광부",
+        "secondaryJob": "사냥꾼"
+    },
+    {
+        "image": "/img/ronaWorldSeason2/steve_icon.jpg",
+        "name": "디임",
+        "rpg": "전사",
+        "primaryJob": "농부",
+        "secondaryJob": "사냥꾼"
+    },
+    {
+        "image": "/img/ronaWorldSeason2/steve_icon.jpg",
+        "name": "야무지",
+        "rpg": "궁수",
+        "primaryJob": "광부",
+        "secondaryJob": "사냥꾼"
+    },
+    {
+        "image": "/img/ronaWorldSeason2/steve_icon.jpg",
+        "name": "존잘벅이",
+        "rpg": "궁수",
+        "primaryJob": "사냥꾼",
+        "secondaryJob": "농부"
+    },
+    {
+        "image": "/img/ronaWorldSeason2/steve_icon.jpg",
+        "name": "리리하",
+        "rpg": "법사",
+        "primaryJob": "연금술사",
+        "secondaryJob": "광부"
+    },
+    {
+        "image": "/img/ronaWorldSeason2/steve_icon.jpg",
+        "name": "카토",
+        "rpg": "법사",
+        "primaryJob": "요리사",
+        "secondaryJob": "농부"
+    },
+    {
+        "image": "/img/ronaWorldSeason2/steve_icon.jpg",
+        "name": "리요지",
+        "rpg": "법사",
+        "primaryJob": "광부",
+        "secondaryJob": "사냥꾼"
+    },
+    {
+        "image": "/img/ronaWorldSeason2/steve_icon.jpg",
+        "name": "달세뇨",
+        "rpg": "법사",
+        "primaryJob": "요리사",
+        "secondaryJob": "광부"
+    }
+]

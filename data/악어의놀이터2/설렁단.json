@@ -1,0 +1,70 @@
+[
+    {
+        "guildImg": "/img/alligatorPlayground/seolRungDan/seolRungDan_gulidIcon.webp",
+        "guildName": "설렁단"
+    },
+    {
+        "image": "/img/alligatorPlayground/seolRungDan/seolRungDanProfilePhoto/daju_icon.png",
+        "name": "다주",
+        "weaponLevel": 17,
+        "combatLevel": 122,
+        "primaryJob": "농부",
+        "secondaryJob": "어부"
+    },
+    {
+        "image": "/img/alligatorPlayground/seolRungDan/seolRungDanProfilePhoto/mamwa_icon.webp",
+        "name": "마뫄",
+        "weaponLevel": 17,
+        "combatLevel": 118,
+        "primaryJob": "광부",
+        "secondaryJob": "어부"
+    },
+    {
+        "image": "/img/alligatorPlayground/seolRungDan/seolRungDanProfilePhoto/chamcham_icon.webp",
+        "name": "탬탬버린",
+        "weaponLevel": 11,
+        "combatLevel": 60,
+        "primaryJob": "농부",
+        "secondaryJob": "어부"
+    },
+    {
+        "image": "/img/alligatorPlayground/seolRungDan/seolRungDanProfilePhoto/leechunhyang_icon.webp",
+        "name": "이춘향",
+        "weaponLevel": "0",
+        "combatLevel": 61,
+        "primaryJob": "농부",
+        "secondaryJob": "요리사"
+    },
+    {
+        "image": "/img/alligatorPlayground/seolRungDan/seolRungDanProfilePhoto/seoneng_icon.webp",
+        "name": "서넹",
+        "weaponLevel": 17,
+        "combatLevel": 119,
+        "primaryJob": "광부",
+        "secondaryJob": "농부"
+    },
+    {
+        "image": "/img/alligatorPlayground/seolRungDan/seolRungDanProfilePhoto/kon_icon.png",
+        "name": "콩콩",
+        "weaponLevel": 17,
+        "combatLevel": 113,
+        "primaryJob": "농부",
+        "secondaryJob": "요리사"
+    },
+    {
+        "image": "/img/alligatorPlayground/seolRungDan/seolRungDanProfilePhoto/bbibu_icon.webp",
+        "name": "삐부",
+        "weaponLevel": "0",
+        "combatLevel": "0",
+        "primaryJob": "광부",
+        "secondaryJob": "농부"
+    },
+    {
+        "image": "/img/alligatorPlayground/seolRungDan/seolRungDanProfilePhoto/moooca_icon.webp",
+        "name": "모카형",
+        "weaponLevel": 19,
+        "combatLevel": 91,
+        "primaryJob": "어부",
+        "secondaryJob": "요리사"
+    }
+]

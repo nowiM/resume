@@ -1,0 +1,94 @@
+[
+    {
+        "guildImg": "/img/alligatorPlayground/shinSeKai/shinSeKai_gulidIcon.webp",
+        "guildName": "신세카이"
+    },
+    {
+        "image": "/img/alligatorPlayground/shinSeKai/shinSeKaiProfilePhoto/gosegu_icon.webp",
+        "name": "고세구",
+        "weaponLevel": 12,
+        "combatLevel": 64,
+        "primaryJob": "광부",
+        "secondaryJob": "-"
+    },
+    {
+        "image": "/img/alligatorPlayground/shinSeKai/shinSeKaiProfilePhoto/vlichan_icon.webp",
+        "name": "비찬",
+        "weaponLevel": 15,
+        "combatLevel": 56,
+        "primaryJob": "요리사",
+        "secondaryJob": "어부"
+    },
+    {
+        "image": "/img/alligatorPlayground/shinSeKai/shinSeKaiProfilePhoto/pingman_icon.webp",
+        "name": "핑맨",
+        "weaponLevel": 18,
+        "combatLevel": 124,
+        "primaryJob": "어부",
+        "secondaryJob": "농부"
+    },
+    {
+        "image": "/img/alligatorPlayground/shinSeKai/shinSeKaiProfilePhoto/windEGGkim_icon.webp",
+        "name": "김계란",
+        "weaponLevel": "0",
+        "combatLevel": 35,
+        "primaryJob": "농부",
+        "secondaryJob": "-"
+    },
+    {
+        "image": "/img/alligatorPlayground/shinSeKai/shinSeKaiProfilePhoto/ms_icon.webp",
+        "name": "멋사",
+        "weaponLevel": 20,
+        "combatLevel": 107,
+        "primaryJob": "어부",
+        "secondaryJob": "광부"
+    },
+    {
+        "image": "/img/alligatorPlayground/shinSeKai/shinSeKaiProfilePhoto/nambong_icon.png",
+        "name": "남봉",
+        "weaponLevel": 18,
+        "combatLevel": 105,
+        "primaryJob": "어부",
+        "secondaryJob": "광부"
+    },
+    {
+        "image": "/img/alligatorPlayground/shinSeKai/shinSeKaiProfilePhoto/dooseven_icon.webp",
+        "name": "두칠",
+        "weaponLevel": 18,
+        "combatLevel": 129,
+        "primaryJob": "어부",
+        "secondaryJob": "광부"
+    },
+    {
+        "image": "/img/alligatorPlayground/shinSeKai/shinSeKaiProfilePhoto/mawang0216_icon.webp",
+        "name": "마왕0216",
+        "weaponLevel": 17,
+        "combatLevel": 104,
+        "primaryJob": "요리사",
+        "secondaryJob": "광부"
+    },
+    {
+        "image": "/img/alligatorPlayground/shinSeKai/shinSeKaiProfilePhoto/calinya_icon.webp",
+        "name": "카린야",
+        "weaponLevel": 16,
+        "combatLevel": 112,
+        "primaryJob": "농부",
+        "secondaryJob": "광부"
+    },
+    {
+        "image": "/img/alligatorPlayground/shinSeKai/shinSeKaiProfilePhoto/jegal_icon.webp",
+        "name": "제갈금자",
+        "weaponLevel": 11,
+        "combatLevel": 76,
+        "primaryJob": "농부",
+        "secondaryJob": "광부"
+    },
+    {
+        "image": "/img/alligatorPlayground/shinSeKai/shinSeKaiProfilePhoto/beemong_icon.webp",
+        "name": "비몽",
+        "weaponLevel": 5,
+        "combatLevel": 71,
+        "primaryJob": "농부",
+        "secondaryJob": "어부"
+    }
+]

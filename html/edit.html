@@ -1,0 +1,134 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Nanum+Gothic:wght@400;700&display=swap"
+    />
+    <link rel="stylesheet" href="/resume/css/style.css" />
+    <title>Edit Tables</title>
+  </head>
+  <body>
+    <div class="top-nav">
+      <div class="container">
+        <ul class="games">
+          <li class="item">logo</li>
+          <li class="item">마인크래프트</li>
+          <li class="item">배틀그라운드</li>
+          <li class="item">LOL</li>
+        </ul>
+      </div>
+    </div>
+    <div class="dividingLine"></div>
+    <!--구분선-->
+    <div class="bottom-nav">
+      <div class="container">
+        <ul class="seasons">
+          <li class="season">시즌 1</li>
+          <li class="season">시즌 2</li>
+          <li class="season">시즌 3</li>
+          <li class="season">시즌 4</li>
+          <li><a class="edit" href="edit.html">edit</a></li>
+        </ul>
+      </div>
+    </div>
+    <div class="background">
+      <div class="container"></div>
+    </div>
+    <div id="editModal">
+      <form id="editForm">
+        <div id="editContainer" class="container"></div>
+        <button type="submit">Save</button>
+        <a href="index.html">Cancel</a>
+      </form>
+    </div>
+
+    <script>
+      function loadTablesForEditing() {
+        const data = JSON.parse(localStorage.getItem("tableData"));
+        const editContainer = document.getElementById("editContainer");
+
+        if (data) {
+          const tables = {};
+          data.forEach((rowData, index) => {
+            const tableIndex = Math.floor(index / 5);
+            if (!tables[tableIndex]) {
+              tables[tableIndex] = document.createElement("div");
+              tables[tableIndex].className = "table-container";
+              tables[tableIndex].innerHTML = `
+                            <table>
+                                <tr>
+                                    <th colspan="5">${getTableName(
+                                      tableIndex
+                                    )}</th>
+                                </tr>
+                            </table>
+                        `;
+            }
+
+            const table = tables[tableIndex].querySelector("table");
+            const row = document.createElement("tr");
+            row.innerHTML = `
+                        <td><input type="text" value="${rowData[0]}" data-index="${index}" data-col="0"></td>
+                        <td><input type="text" value="${rowData[1]}" data-index="${index}" data-col="1"></td>
+                        <td><input type="text" value="${rowData[2]}" data-index="${index}" data-col="2"></td>
+                        <td><input type="text" value="${rowData[3]}" data-index="${index}" data-col="3"></td>
+                        <td><input type="text" value="${rowData[4]}" data-index="${index}" data-col="4"></td>
+                    `;
+            table.appendChild(row);
+          });
+
+          Object.values(tables).forEach((tableContainer) => {
+            editContainer.appendChild(tableContainer);
+          });
+          console.log("Data loaded for editing:", data); // Debug log
+        } else {
+          console.log("No data found in localStorage"); // Debug log
+        }
+
+        document.getElementById("editForm").onsubmit = function (event) {
+          event.preventDefault();
+          saveAllEdits();
+        };
+      }
+
+      function getTableName(index) {
+        const tableNames = [
+          "개좋소",
+          "실코타운",
+          "무레이블",
+          "건벤져스",
+          "크랙단",
+          "임직단",
+          "도마도 조",
+          "설렁단",
+        ];
+        return tableNames[index];
+      }
+
+      function saveAllEdits() {
+        const inputs = document.querySelectorAll("#editContainer input");
+        const data = JSON.parse(localStorage.getItem("tableData")) || [];
+
+        inputs.forEach((input) => {
+          const index = input.dataset.index;
+          const col = input.dataset.col;
+          if (!data[index]) {
+            data[index] = [];
+          }
+          data[index][col] = input.value;
+        });
+
+        localStorage.setItem("tableData", JSON.stringify(data));
+        console.log("Data saved:", data); // Debug log
+        window.location.href = "index.html";
+      }
+
+      window.onload = function () {
+        loadTablesForEditing();
+      };
+    </script>
+  </body>
+</html>

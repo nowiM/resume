@@ -1,0 +1,94 @@
+[
+    {
+        "guildImg": "/img/alligatorPlayground/JuniChuni/juniChuni_gulidIcon.webp",
+        "guildName": "주니처니"
+    },
+    {
+        "image": "/img/alligatorPlayground/JuniChuni/JuniChuniProfilePhoto/cheonYang_icon.webp",
+        "name": "천양",
+        "weaponLevel": 16,
+        "combatLevel": 122,
+        "primaryJob": "광부",
+        "secondaryJob": "농부"
+    },
+    {
+        "image": "/img/alligatorPlayground/JuniChuni/JuniChuniProfilePhoto/jururu_icon.webp",
+        "name": "주르르",
+        "weaponLevel": "0",
+        "combatLevel": 30,
+        "primaryJob": "-",
+        "secondaryJob": "-"
+    },
+    {
+        "image": "/img/alligatorPlayground/JuniChuni/JuniChuniProfilePhoto/colett_icon.webp",
+        "name": "코렛트",
+        "weaponLevel": 17,
+        "combatLevel": 111,
+        "primaryJob": "광부",
+        "secondaryJob": "어부"
+    },
+    {
+        "image": "/img/alligatorPlayground/JuniChuni/JuniChuniProfilePhoto/boomsei_icon.webp",
+        "name": "붐세이",
+        "weaponLevel": 8,
+        "combatLevel": 93,
+        "primaryJob": "농부",
+        "secondaryJob": "광부"
+    },
+    {
+        "image": "/img/alligatorPlayground/JuniChuni/JuniChuniProfilePhoto/daewolhyang_icon.png",
+        "name": "대월향",
+        "weaponLevel": 7,
+        "combatLevel": 76,
+        "primaryJob": "광부",
+        "secondaryJob": "농부"
+    },
+    {
+        "image": "/img/alligatorPlayground/JuniChuni/JuniChuniProfilePhoto/eongregi_icon.webp",
+        "name": "영레기",
+        "weaponLevel": 6,
+        "combatLevel": 70,
+        "primaryJob": "광부",
+        "secondaryJob": "어부"
+    },
+    {
+        "image": "/img/alligatorPlayground/JuniChuni/JuniChuniProfilePhoto/mygomi_icon.webp",
+        "name": "마이곰이",
+        "weaponLevel": 12,
+        "combatLevel": 78,
+        "primaryJob": "농부",
+        "secondaryJob": "광부"
+    },
+    {
+        "image": "/img/alligatorPlayground/JuniChuni/JuniChuniProfilePhoto/hadaa_icon.webp",
+        "name": "하디아",
+        "weaponLevel": 12,
+        "combatLevel": 93,
+        "primaryJob": "요리사",
+        "secondaryJob": "농부"
+    },
+    {
+        "image": "/img/alligatorPlayground/JuniChuni/JuniChuniProfilePhoto/radio_icon.webp",
+        "name": "라디유",
+        "weaponLevel": "0",
+        "combatLevel": 12,
+        "primaryJob": "광부",
+        "secondaryJob": "-"
+    },
+    {
+        "image": "/img/alligatorPlayground/JuniChuni/JuniChuniProfilePhoto/hangyeol_icon.webp",
+        "name": "한결",
+        "weaponLevel": 12,
+        "combatLevel": 60,
+        "primaryJob": "농부",
+        "secondaryJob": "광부"
+    },
+    {
+        "image": "/img/alligatorPlayground/JuniChuni/JuniChuniProfilePhoto/danju_icon.webp",
+        "name": "단츄",
+        "weaponLevel": 12,
+        "combatLevel": 65,
+        "primaryJob": "농부",
+        "secondaryJob": "어부"
+    }
+]

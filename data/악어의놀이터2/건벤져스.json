@@ -1,0 +1,102 @@
+[
+    {
+        "guildImg": "/img/alligatorPlayground/gunAvengers/gunAvengers_gulidIcon.webp",
+        "guildName": "건벤저스"
+    },
+    {
+        "image": "/img/alligatorPlayground/gunAvengers/gunAvengersProfilePhoto/wolf_icon.webp",
+        "name": "울프",
+        "weaponLevel": 16,
+        "combatLevel": 130,
+        "primaryJob": "농부",
+        "secondaryJob": "요리사"
+    },
+    {
+        "image": "/img/alligatorPlayground/gunAvengers/gunAvengersProfilePhoto/ddinghoon_icon.webp",
+        "name": "명예훈장",
+        "weaponLevel": 16,
+        "combatLevel": 136,
+        "primaryJob": "광부",
+        "secondaryJob": "어부"
+    },
+    {
+        "image": "/img/alligatorPlayground/gunAvengers/gunAvengersProfilePhoto/benzino_icon.webp",
+        "name": "진호",
+        "weaponLevel": 17,
+        "combatLevel": 127,
+        "primaryJob": "광부",
+        "secondaryJob": "어부"
+    },
+    {
+        "image": "/img/alligatorPlayground/gunAvengers/gunAvengersProfilePhoto/runner_icon.webp",
+        "name": "러너",
+        "weaponLevel": 16,
+        "combatLevel": 129,
+        "primaryJob": "광부",
+        "secondaryJob": "어부"
+    },
+    {
+        "image": "/img/alligatorPlayground/gunAvengers/gunAvengersProfilePhoto/noDoiLy_icon.webp",
+        "name": "노돌리",
+        "weaponLevel": 16,
+        "combatLevel": 134,
+        "primaryJob": "광부",
+        "secondaryJob": "농부"
+    },
+    {
+        "image": "/img/alligatorPlayground/gunAvengers/gunAvengersProfilePhoto/kkangsl_icon.webp",
+        "name": "깡시",
+        "weaponLevel": 12,
+        "combatLevel": 110,
+        "primaryJob": "어부",
+        "secondaryJob": "농부"
+    },
+    {
+        "image": "/img/alligatorPlayground/gunAvengers/gunAvengersProfilePhoto/essTree_icon.webp",
+        "name": "만득",
+        "weaponLevel": 16,
+        "combatLevel": 127,
+        "primaryJob": "광부",
+        "secondaryJob": "어부"
+    },
+    {
+        "image": "/img/alligatorPlayground/gunAvengers/gunAvengersProfilePhoto/ans_icon.png",
+        "name": "안산저격수",
+        "weaponLevel": 16,
+        "combatLevel": 126,
+        "primaryJob": "광부",
+        "secondaryJob": "어부"
+    },
+    {
+        "image": "/img/alligatorPlayground/gunAvengers/gunAvengersProfilePhoto/yoonRoot_icon.webp",
+        "name": "윤투트",
+        "weaponLevel": 16,
+        "combatLevel": 120,
+        "primaryJob": "광부",
+        "secondaryJob": "어부"
+    },
+    {
+        "image": "/img/alligatorPlayground/gunAvengers/gunAvengersProfilePhoto/yangdding_icon.webp",
+        "name": "양띵",
+        "weaponLevel": 13,
+        "combatLevel": 101,
+        "primaryJob": "요리사",
+        "secondaryJob": "농부"
+    },
+    {
+        "image": "/img/alligatorPlayground/gunAvengers/gunAvengersProfilePhoto/flowervin_icon.webp",
+        "name": "꽃빈",
+        "weaponLevel": "0",
+        "combatLevel": 102,
+        "primaryJob": "어부",
+        "secondaryJob": "농부"
+    },
+    {
+        "image": "/img/alligatorPlayground/gunAvengers/gunAvengersProfilePhoto/sini_icon.webp",
+        "name": "시니",
+        "weaponLevel": 12,
+        "combatLevel": 94,
+        "primaryJob": "어부",
+        "secondaryJob": "농부"
+    }
+]

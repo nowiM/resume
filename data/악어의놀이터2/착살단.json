@@ -1,0 +1,70 @@
+[
+    {
+        "guildImg": "/img/alligatorPlayground/chekSalDan/chekSalDan_gulidIcon.webp",
+        "guildName": "착살단"
+    },
+    {
+        "image": "/img/alligatorPlayground/chekSalDan/chekSalDanProfilePhoto/merduck_icon.png",
+        "name": "머독",
+        "weaponLevel": "0",
+        "combatLevel": 26,
+        "primaryJob": "광부",
+        "secondaryJob": "-"
+    },
+    {
+        "image": "/img/alligatorPlayground/chekSalDan/chekSalDanProfilePhoto/kane_icon.webp",
+        "name": "케인",
+        "weaponLevel": "0",
+        "combatLevel": "0",
+        "primaryJob": "어부",
+        "secondaryJob": "-"
+    },
+    {
+        "image": "/img/alligatorPlayground/chekSalDan/chekSalDanProfilePhoto/jingburger_icon.webp",
+        "name": "징버거",
+        "weaponLevel": "0",
+        "combatLevel": 21,
+        "primaryJob": "광부",
+        "secondaryJob": "어부"
+    },
+    {
+        "image": "/img/alligatorPlayground/chekSalDan/chekSalDanProfilePhoto/jocharming_icon.webp",
+        "name": "조매력",
+        "weaponLevel": "0",
+        "combatLevel": 10,
+        "primaryJob": "어부",
+        "secondaryJob": "광부"
+    },
+    {
+        "image": "/img/alligatorPlayground/chekSalDan/chekSalDanProfilePhoto/ssogeneral_icon.webp",
+        "name": "쏘대장",
+        "weaponLevel": "0",
+        "combatLevel": 20,
+        "primaryJob": "어부",
+        "secondaryJob": "요리사"
+    },
+    {
+        "image": "/img/alligatorPlayground/chekSalDan/chekSalDanProfilePhoto/honeychurros_icon.webp",
+        "name": "허니츄러스",
+        "weaponLevel": "0",
+        "combatLevel": 22,
+        "primaryJob": "어부",
+        "secondaryJob": "광부"
+    },
+    {
+        "image": "/img/alligatorPlayground/chekSalDan/chekSalDanProfilePhoto/yunryoung_icon.webp",
+        "name": "옌룡",
+        "weaponLevel": "0",
+        "combatLevel": 22,
+        "primaryJob": "농부",
+        "secondaryJob": "어부"
+    },
+    {
+        "image": "/img/alligatorPlayground/chekSalDan/chekSalDanProfilePhoto/shirayukihina_icon.webp",
+        "name": "시라유키 히나",
+        "weaponLevel": "0",
+        "combatLevel": 10,
+        "primaryJob": "어부",
+        "secondaryJob": "농부"
+    }
+]

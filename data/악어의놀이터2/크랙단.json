@@ -1,0 +1,102 @@
+[
+    {
+        "guildImg": "/img/alligatorPlayground/crackDan/crackDan_gulidIcon.webp",
+        "guildName": "크랙단"
+    },
+    {
+        "image": "/img/alligatorPlayground/crackDan/crackDanProfilePhoto/leesangho_icon.webp",
+        "name": "이상호",
+        "weaponLevel": "0",
+        "combatLevel": 53,
+        "primaryJob": "요리사",
+        "secondaryJob": "농부"
+    },
+    {
+        "image": "/img/alligatorPlayground/crackDan/crackDanProfilePhoto/filme_icon.webp",
+        "name": "필메",
+        "weaponLevel": 18,
+        "combatLevel": 140,
+        "primaryJob": "광부",
+        "secondaryJob": "어부"
+    },
+    {
+        "image": "/img/alligatorPlayground/crackDan/crackDanProfilePhoto/woolteacher_icon.webp",
+        "name": "롤선생",
+        "weaponLevel": 17,
+        "combatLevel": 151,
+        "primaryJob": "농부",
+        "secondaryJob": "어부"
+    },
+    {
+        "image": "/img/alligatorPlayground/crackDan/crackDanProfilePhoto/sangyun_icon.webp",
+        "name": "나는상윤",
+        "weaponLevel": 18,
+        "combatLevel": 152,
+        "primaryJob": "어부",
+        "secondaryJob": "광부"
+    },
+    {
+        "image": "/img/alligatorPlayground/crackDan/crackDanProfilePhoto/honeyteng_icon.webp",
+        "name": "꿀탱탱",
+        "weaponLevel": 18,
+        "combatLevel": 150,
+        "primaryJob": "광부",
+        "secondaryJob": "어부"
+    },
+    {
+        "image": "/img/alligatorPlayground/crackDan/crackDanProfilePhoto/steve_icon.jpg",
+        "name": "트할",
+        "weaponLevel": 17,
+        "combatLevel": 145,
+        "primaryJob": "광부",
+        "secondaryJob": "농부"
+    },
+    {
+        "image": "/img/alligatorPlayground/crackDan/crackDanProfilePhoto/ingji_icon.webp",
+        "name": "앵지",
+        "weaponLevel": 18,
+        "combatLevel": 131,
+        "primaryJob": "농부",
+        "secondaryJob": "요리사"
+    },
+    {
+        "image": "/img/alligatorPlayground/crackDan/crackDanProfilePhoto/rabbit_icon.webp",
+        "name": "토끼예나",
+        "weaponLevel": 17,
+        "combatLevel": 144,
+        "primaryJob": "광부",
+        "secondaryJob": "어부"
+    },
+    {
+        "image": "/img/alligatorPlayground/crackDan/crackDanProfilePhoto/tomato_icon.png",
+        "name": "토마토",
+        "weaponLevel": 17,
+        "combatLevel": 123,
+        "primaryJob": "어부",
+        "secondaryJob": "광부"
+    },
+    {
+        "image": "/img/alligatorPlayground/crackDan/crackDanProfilePhoto/flower_icon.webp",
+        "name": "꽃님",
+        "weaponLevel": 17,
+        "combatLevel": 132,
+        "primaryJob": "광부",
+        "secondaryJob": "어부"
+    },
+    {
+        "image": "/img/alligatorPlayground/crackDan/crackDanProfilePhoto/hansaegin_icon.webp",
+        "name": "한세긴",
+        "weaponLevel": 12,
+        "combatLevel": 113,
+        "primaryJob": "농부",
+        "secondaryJob": "어부"
+    },
+    {
+        "image": "/img/alligatorPlayground/crackDan/crackDanProfilePhoto/hanaarin_icon.webp",
+        "name": "한아련",
+        "weaponLevel": 18,
+        "combatLevel": 138,
+        "primaryJob": "요리사",
+        "secondaryJob": "농부"
+    }
+]

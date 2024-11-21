@@ -1,0 +1,86 @@
+[
+    {
+        "guildImg": "/img/alligatorPlayground/mooLable/mooLable_gulidIcon.webp",
+        "guildName": "무레이블"
+    },
+    {
+        "image": "/img/alligatorPlayground/mooLable/mooLableProfilePhoto/steve_icon.jpg",        
+        "name": "봉준",
+        "weaponLevel": 11,
+        "combatLevel": 75,
+        "primaryJob": "제작",
+        "secondaryJob": "어부"
+    },
+    {
+        "image": "/img/alligatorPlayground/mooLable/mooLableProfilePhoto/steve_icon.jpg",
+        "name": "마왕루야",
+        "weaponLevel": 10,
+        "combatLevel": 101,
+        "primaryJob": "어부",
+        "secondaryJob": "농부"
+    },
+    {
+        "image": "/img/alligatorPlayground/mooLable/mooLableProfilePhoto/steve_icon.jpg",
+        "name": "타요",
+        "weaponLevel": 13,
+        "combatLevel": 96,
+        "primaryJob": "어부",
+        "secondaryJob": "농부"
+    },
+    {
+        "image": "/img/alligatorPlayground/mooLable/mooLableProfilePhoto/steve_icon.jpg",
+        "name": "라로시",
+        "weaponLevel": 10,
+        "combatLevel": 92,
+        "primaryJob": "어부",
+        "secondaryJob": "농부"
+    },
+    {
+        "image": "/img/alligatorPlayground/mooLable/mooLableProfilePhoto/steve_icon.jpg",
+        "name": "상어녀",
+        "weaponLevel": 11,
+        "combatLevel": 104,
+        "primaryJob": "요리사",
+        "secondaryJob": "농부"
+    },
+    {
+        "image": "/img/alligatorPlayground/mooLable/mooLableProfilePhoto/steve_icon.jpg",
+        "name": "다누리",
+        "weaponLevel": 9,
+        "combatLevel": 76,
+        "primaryJob": "어부",
+        "secondaryJob": "광부"
+    },
+    {
+        "image": "/img/alligatorPlayground/mooLable/mooLableProfilePhoto/steve_icon.jpg",
+        "name": "단즈",
+        "weaponLevel": 9,
+        "combatLevel": 76,
+        "primaryJob": "광부",
+        "secondaryJob": "어부"
+    },
+    {
+        "image": "/img/alligatorPlayground/mooLable/mooLableProfilePhoto/steve_icon.jpg",
+        "name": "애교용",
+        "weaponLevel": 7,
+        "combatLevel": 83,
+        "primaryJob": "어부",
+        "secondaryJob": "광부"
+    },
+    {
+        "image": "/img/alligatorPlayground/mooLable/mooLableProfilePhoto/steve_icon.jpg",
+        "name": "더빙레이디",
+        "weaponLevel": 8,
+        "combatLevel": 79,
+        "primaryJob": "광부",
+        "secondaryJob": "어부"
+    },
+    {
+        "image": "/img/alligatorPlayground/mooLable/mooLableProfilePhoto/steve_icon.jpg",
+        "name": "빙밍",
+        "weaponLevel": 9,
+        "combatLevel": 83,
+        "primaryJob": "광부",
+        "secondaryJob": "어부"
+    }
+]

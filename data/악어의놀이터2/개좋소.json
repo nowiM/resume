@@ -1,0 +1,114 @@
+[
+    {
+        "guildImg": "/img/alligatorPlayground/gajohso/gajohso_gulidIcon.webp",
+        "guildName": "개좋소"
+    },
+    {
+        "bjBroadcastingStationURL": "https://bj.afreecatv.com/phonics1",
+        "image": "/img/alligatorPlayground/gajohso/gajohsoProfilePhoto/mk_icon.webp",
+        "name": "김민교",
+        "weaponLevel": 16,
+        "combatLevel": 117,
+        "primaryJob": "어부",
+        "secondaryJob": "농부"
+    },
+    {
+        "bjBroadcastingStationURL": "https://bj.afreecatv.com/phonics1",
+        "image": "/img/alligatorPlayground/gajohso/gajohsoProfilePhoto/kodong_icon.webp",
+        "name": "코뚱잉",
+        "weaponLevel": 12,
+        "combatLevel": 100,
+        "primaryJob": "광부",
+        "secondaryJob": "어부"
+    },
+    {
+        "bjBroadcastingStationURL": "https://bj.afreecatv.com/phonics1",
+        "image": "/img/alligatorPlayground/gajohso/gajohsoProfilePhoto/packCEO_icon.webp",
+        "name": "박사장",
+        "weaponLevel": 17,
+        "combatLevel": 134,
+        "primaryJob": "광부",
+        "secondaryJob": "어부"
+    },
+    {
+        "bjBroadcastingStationURL": "https://bj.afreecatv.com/phonics1",
+        "image": "/img/alligatorPlayground/gajohso/gajohsoProfilePhoto/cheto_icon.webp",
+        "name": "먹체토",
+        "weaponLevel": 8,
+        "combatLevel": 107,
+        "primaryJob": "광부",
+        "secondaryJob": "요리사"
+    },
+    {
+        "bjBroadcastingStationURL": "https://bj.afreecatv.com/phonics1",
+        "image": "/img/alligatorPlayground/gajohso/gajohsoProfilePhoto/soohit_icon.webp",
+        "name": "수힛",
+        "weaponLevel": 13,
+        "combatLevel": 116,
+        "primaryJob": "광부",
+        "secondaryJob": "어부"
+    },
+    {
+        "bjBroadcastingStationURL": "https://bj.afreecatv.com/phonics1",
+        "image": "/img/alligatorPlayground/gajohso/gajohsoProfilePhoto/pyowoo_icon.webp",
+        "name": "표우",
+        "weaponLevel": 12,
+        "combatLevel": 101,
+        "primaryJob": "농부",
+        "secondaryJob": "어부"
+    },
+    {
+        "bjBroadcastingStationURL": "https://bj.afreecatv.com/phonics1",
+        "image": "/img/alligatorPlayground/gajohso/gajohsoProfilePhoto/hellosooya_icon.webp",
+        "name": "안녕수야",
+        "weaponLevel": 11,
+        "combatLevel": 77,
+        "primaryJob": "어부",
+        "secondaryJob": "광부"
+    },
+    {
+        "bjBroadcastingStationURL": "https://bj.afreecatv.com/phonics1",
+        "image": "/img/alligatorPlayground/gajohso/gajohsoProfilePhoto/hankyungs_icon.png",
+        "name": "한갱",
+        "weaponLevel": 12,
+        "combatLevel": 90,
+        "primaryJob": "어부",
+        "secondaryJob": "광부"
+    },
+    {
+        "bjBroadcastingStationURL": "https://bj.afreecatv.com/phonics1",
+        "image": "/img/alligatorPlayground/gajohso/gajohsoProfilePhoto/kuiki_icon.webp",
+        "name": "끠끼",
+        "weaponLevel": 12,
+        "combatLevel": 54,
+        "primaryJob": "요리사",
+        "secondaryJob": "농부"
+    },
+    {
+        "bjBroadcastingStationURL": "https://bj.afreecatv.com/phonics1",
+        "image": "/img/alligatorPlayground/gajohso/gajohsoProfilePhoto/yoonFroggy_icon.png",
+        "name": "윤개굴이",
+        "weaponLevel": 12,
+        "combatLevel": 50,
+        "primaryJob": "어부",
+        "secondaryJob": "광부"
+    },
+    {
+        "bjBroadcastingStationURL": "https://bj.afreecatv.com/phonics1",
+        "image": "/img/alligatorPlayground/gajohso/gajohsoProfilePhoto/caramel_icon.webp",
+        "name": "카라멜",
+        "weaponLevel": "0",
+        "combatLevel": 50,
+        "primaryJob": "농부",
+        "secondaryJob": "요리사"
+    },
+    {
+        "bjBroadcastingStationURL": "https://bj.afreecatv.com/phonics1",
+        "image": "/img/alligatorPlayground/gajohso/gajohsoProfilePhoto/zunba_icon.webp",
+        "name": "준바",
+        "weaponLevel": 12,
+        "combatLevel": 54,
+        "primaryJob": "광부",
+        "secondaryJob": "어부"
+    }
+]

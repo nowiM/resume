@@ -1,0 +1,46 @@
+[
+    {
+        "guildImg": "/img/alligatorPlayground/hanLiang/hanLiang_gulidIcon.webp",
+        "guildName": "한량"
+    },
+    {
+        "image": "/img/alligatorPlayground/hanLiang/hanLiangProfilePhoto/pianocat_icon.webp",
+        "name": "피아노캣",
+        "weaponLevel": "0",
+        "combatLevel": 69,
+        "primaryJob": "어부",
+        "secondaryJob": "농부"
+    },
+    {
+        "image": "/img/alligatorPlayground/hanLiang/hanLiangProfilePhoto/jungsorim_icon.webp",
+        "name": "정소림",
+        "weaponLevel": "0",
+        "combatLevel": 30,
+        "primaryJob": "농부",
+        "secondaryJob": "어부"
+    },
+    {
+        "image": "/img/alligatorPlayground/hanLiang/hanLiangProfilePhoto/ida_icon.webp",
+        "name": "이다",
+        "weaponLevel": "0",
+        "combatLevel": 26,
+        "primaryJob": "어부",
+        "secondaryJob": "광부"
+    },
+    {
+        "image": "/img/alligatorPlayground/hanLiang/hanLiangProfilePhoto/huchu_icon.webp",
+        "name": "후추",
+        "weaponLevel": "0",
+        "combatLevel": 31,
+        "primaryJob": "광부",
+        "secondaryJob": "-"
+    },
+    {
+        "image": "/img/alligatorPlayground/hanLiang/hanLiangProfilePhoto/howcow_icon.webp",
+        "name": "하우카우",
+        "weaponLevel": "0",
+        "combatLevel": 13,
+        "primaryJob": "광부",
+        "secondaryJob": "농부"
+    }
+]
